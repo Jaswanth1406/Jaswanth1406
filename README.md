@@ -81,8 +81,6 @@ I build AI-driven applications and full-stack systems, focusing on solving real-
 
 </div>
 
-> Requires GitHub Actions setup
-
 <div align="center">
 
 <sub>[Get in touch](https://jaswanthprasanna-portfolio.netlify.app/)</sub>
