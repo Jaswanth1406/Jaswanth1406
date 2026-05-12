@@ -60,9 +60,10 @@ I build AI-driven applications and full-stack systems, focusing on solving real-
 
 ## GitHub Signals
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jaswanth1406&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Jaswanth Prasanna V stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth1406&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Jaswanth Prasanna V top languages"/>
+<p align="center">
+  <img height="165"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth1406&theme=github-dark&hide_border=true" />
+</p>
 
 ## Extras
 
